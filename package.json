@@ -1,0 +1,16 @@
+{
+  "name": "lendingservicetested",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lendconsole.js",
+  "scripts" : { 
+    "test" : "jest",
+    "testW" : "jest --watchAll"
+ },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
